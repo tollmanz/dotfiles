@@ -1,3 +1,5 @@
+#!/bin/sh
+#
 # Install SPF13
 #
 # https://github.com/spf13/spf13-vim
