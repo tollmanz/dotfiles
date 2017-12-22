@@ -10,7 +10,6 @@ brew 'git'
 brew 'jq'
 brew 'wget'
 
-cask '1password'
 cask 'firefox'
 cask 'google-chrome'
 cask 'google-chrome-canary'
