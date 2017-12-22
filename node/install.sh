@@ -9,11 +9,11 @@ install_nvm() {
 	source ${HOME}/.zshrc
 
 	# Install node versions
-	nvm install v4
 	nvm install v6
+	nvm install v8
 
 	# Set default
-	nvm alias default v4
+	nvm alias default v8
 }
 
 # Install NVM
