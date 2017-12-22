@@ -12,7 +12,6 @@ brew 'wget'
 
 cask 'firefox'
 cask 'google-chrome'
-cask 'google-chrome-canary'
 cask 'sublime-text'
 cask 'visual-studio-code'
 cask 'spotify'
